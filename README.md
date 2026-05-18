@@ -1,7 +1,9 @@
 <!-- ▓▓▓▓▓▓▓▓▓▓ HEADER WAVE ▓▓▓▓▓▓▓▓▓▓ -->
-<a href="https://github.com/nghiahd147">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=My%20name%20is%20Nghia&textBg=false&section=footer&desc=Welcome%20to%20my%20Github&fontSize=70&fontAlignY=48&descAlignY=64" alt="banner"/>
-</a>
+<div align="center">
+  <a href="https://github.com/nghiahd147">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=My%20name%20is%20Nghia&textBg=false&section=footer&desc=Welcome%20to%20my%20Github&fontSize=70&fontAlignY=48&descAlignY=64" alt="banner"/>
+  </a>
+</div>
 
 <!-- ▓▓▓▓▓▓▓▓▓▓ TYPING HEADLINE ▓▓▓▓▓▓▓▓▓▓ -->
 <div align="center">
@@ -20,16 +22,6 @@
 </div>
 
 <br/>
-
-<!-- ▓▓▓▓▓▓▓▓▓▓ NEON ASCII DIVIDER ▓▓▓▓▓▓▓▓▓▓ -->
-
-```ansi
-[35m╔══════════════════════════════════════════════════════════════════════════════╗
-║  [36m▓▒░ NEON.NGHIA :: FRONTEND ARCHITECT // ESTABLISHED 2002 // VIETNAM ░▒▓[35m  ║
-╚══════════════════════════════════════════════════════════════════════════════╝[0m
-```
-
----
 
 ## ⟪ 01 ⟫ &nbsp; me
 
@@ -177,10 +169,6 @@ const nghia = {
 ## ⟪ 04 ⟫ &nbsp; system.diagnostics
 
 <div align="center">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tangquangnghia&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D0221&title_color=F700FF&icon_color=00FFFF&text_color=FFFFFF&ring_color=F700FF&border_radius=14&include_all_commits=true&count_private=true&cache_seconds=60" alt="stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tangquangnghia&layout=compact&theme=synthwave&hide_border=true&bg_color=0D0221&title_color=F700FF&text_color=FFFFFF&border_radius=14&langs_count=10&cache_seconds=60" alt="top langs"/>
-
 <br/><br/>
 
   <img src="https://streak-stats.demolab.com?user=tangquangnghia&theme=synthwave&hide_border=true&background=0D0221&stroke=F700FF&ring=F700FF&fire=00FFFF&currStreakLabel=F700FF&sideLabels=00FFFF&dates=B19CD9&border_radius=14" alt="streak"/>
@@ -211,7 +199,7 @@ const nghia = {
 
 ## ⟪ 06 ⟫ &nbsp; featured.builds
 
-<!-- <table>
+<table>
 <tr>
 <td width="50%" valign="top">
 
@@ -264,7 +252,7 @@ const nghia = {
 
 </td>
 </tr>
-</table> -->
+</table>
 
 ---
 
@@ -299,8 +287,6 @@ const nghia = {
 ---
 
 <!-- ▓▓▓▓▓▓▓▓▓▓ FOOTER WAVE ▓▓▓▓▓▓▓▓▓▓ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Thanks%20for%20scrolling&textBg=false&section=footer&fontSize=70&fontAlignY=65&descAlignY=64" alt="footer"/>
-
 <div align="center">
-  <sub>made with neon, noise &amp; ☕ — <code>v2026.5</code></sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Thanks%20for%20scrolling&textBg=false&section=footer&fontSize=70&fontAlignY=65&descAlignY=64" alt="footer"/>
 </div>
