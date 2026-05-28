@@ -213,15 +213,7 @@ const nghia = {
 
 ---
 
-## ⟪ 06 ⟫ &nbsp; daily.transmission
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="random dev quote"/>
-</div>
-
----
-
-## ⟪ 07 ⟫ &nbsp; featured.builds
+## ⟪ 06 ⟫ &nbsp; featured.builds
 
 <table>
 <tr>
@@ -280,7 +272,7 @@ const nghia = {
 
 ---
 
-## ⟪ 08 ⟫ &nbsp; contribution.serpent 🐍
+## ⟪ 07 ⟫ &nbsp; contribution.serpent 🐍
 
 <div align="center">
   <picture>
@@ -292,7 +284,7 @@ const nghia = {
 
 ---
 
-## ⟪ 09 ⟫ &nbsp; manifesto
+## ⟪ 08 ⟫ &nbsp; manifesto
 
 <div align="center">
 

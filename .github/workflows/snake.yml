@@ -17,7 +17,8 @@ jobs:
     timeout-minutes: 10
     steps:
       - name: Generate snake SVGs
-        uses: Platane/snk@v3
+        id: snake
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: nghiahd147
           outputs: |
@@ -25,10 +26,15 @@ jobs:
             dist/github-snake-dark.svg?palette=github-dark
             dist/github-contribution-grid-snake.svg?color_snake=#F700FF&color_dots=#0D0221,#1E0440,#4A148C,#9C27B0,#F700FF
 
+      - name: List generated files (debug)
+        run: ls -la dist/
+
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
+          keep_history: false
+          commit_message: "chore: regenerate snake svg"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
