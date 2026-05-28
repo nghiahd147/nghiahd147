@@ -16,8 +16,8 @@
 
   <!-- Profile counters / status pills -->
   <img src="https://img.shields.io/badge/STATUS-ONLINE-F700FF?style=for-the-badge&labelColor=0D0221&logo=verizon&logoColor=00FFFF" alt="status"/>
-  <img src="https://komarev.com/ghpvc/?username=tangquangnghia&style=for-the-badge&color=F700FF&label=VISITORS" alt="views"/>
-  <img src="https://img.shields.io/github/followers/tangquangnghia?style=for-the-badge&color=00FFFF&labelColor=0D0221&logo=github&label=FOLLOWERS" alt="followers"/>
+  <img src="https://komarev.com/ghpvc/?username=nghiahd147&style=for-the-badge&color=F700FF&label=VISITORS" alt="views"/>
+  <img src="https://img.shields.io/github/followers/nghiahd147?style=for-the-badge&color=00FFFF&labelColor=0D0221&logo=github&label=FOLLOWERS" alt="followers"/>
 
 </div>
 
@@ -76,7 +76,7 @@ const nghia = {
 <a href="mailto:qn500787@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-0D0221?style=for-the-badge&logo=gmail&logoColor=00FFFF" alt="gmail"/>
 </a>
-<a href="https://www.linkedin.com/in/tangquangnghia">
+<a href="https://www.linkedin.com/in/nghiahd147">
   <img src="https://img.shields.io/badge/LinkedIn-0D0221?style=for-the-badge&logo=linkedin&logoColor=F700FF" alt="linkedin"/>
 </a>
 <a href="https://www.facebook.com/cuchuoi.votinh.355">
@@ -85,7 +85,7 @@ const nghia = {
 <a href="https://discord.com/users/yourdiscordid">
   <img src="https://img.shields.io/badge/Discord-0D0221?style=for-the-badge&logo=discord&logoColor=F700FF" alt="discord"/>
 </a>
-<a href="https://t.me/tangquangnghia">
+<a href="https://t.me/nghiahd147">
   <img src="https://img.shields.io/badge/Telegram-0D0221?style=for-the-badge&logo=telegram&logoColor=00FFFF" alt="telegram"/>
 </a>
 
@@ -114,56 +114,80 @@ const nghia = {
 <p align="center">
   <img src="https://img.shields.io/badge/React-0D0221?style=for-the-badge&logo=react&logoColor=00FFFF"/>
   <img src="https://img.shields.io/badge/Next.js-0D0221?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF"/>
-  <!-- <img src="https://img.shields.io/badge/Vue.js-0D0221?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/> -->
-  <!-- <img src="https://img.shields.io/badge/Svelte-0D0221?style=for-the-badge&logo=svelte&logoColor=FF3E00"/> -->
-  <!-- <img src="https://img.shields.io/badge/Astro-0D0221?style=for-the-badge&logo=astro&logoColor=F700FF"/> -->
+  <img src="https://img.shields.io/badge/Redux_Toolkit-0D0221?style=for-the-badge&logo=redux&logoColor=764ABC"/>
+  <img src="https://img.shields.io/badge/TanStack_Query-0D0221?style=for-the-badge&logo=reactquery&logoColor=FF4154"/>
+  <img src="https://img.shields.io/badge/Zustand-0D0221?style=for-the-badge&logo=react&logoColor=F700FF"/>
+  <br/>
   <img src="https://img.shields.io/badge/Vite-0D0221?style=for-the-badge&logo=vite&logoColor=F700FF"/>
+  <img src="https://img.shields.io/badge/Webpack-0D0221?style=for-the-badge&logo=webpack&logoColor=8DD6F9"/>
+  <img src="https://img.shields.io/badge/Storybook-0D0221?style=for-the-badge&logo=storybook&logoColor=FF4785"/>
+  <img src="https://img.shields.io/badge/Vitest-0D0221?style=for-the-badge&logo=vitest&logoColor=FCC72B"/>
   <br/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-0D0221?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4"/>
   <img src="https://img.shields.io/badge/Sass-0D0221?style=for-the-badge&logo=sass&logoColor=CC6699"/>
   <img src="https://img.shields.io/badge/Styled_Components-0D0221?style=for-the-badge&logo=styledcomponents&logoColor=DB7093"/>
-  <!-- <img src="https://img.shields.io/badge/Framer_Motion-0D0221?style=for-the-badge&logo=framer&logoColor=F700FF"/>
-  <img src="https://img.shields.io/badge/GSAP-0D0221?style=for-the-badge&logo=greensock&logoColor=88CE02"/>
-  <img src="https://img.shields.io/badge/Three.js-0D0221?style=for-the-badge&logo=threedotjs&logoColor=FFFFFF"/> -->
+  <img src="https://img.shields.io/badge/shadcn%2Fui-0D0221?style=for-the-badge&logo=shadcnui&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Ant_Design-0D0221?style=for-the-badge&logo=antdesign&logoColor=0170FE"/>
 </p>
 </details>
 
-<details>
+<details open>
 <summary><b>🔌 Backend, DB & Infra</b></summary>
 <br/>
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-0D0221?style=for-the-badge&logo=nodedotjs&logoColor=339933"/>
   <img src="https://img.shields.io/badge/Express-0D0221?style=for-the-badge&logo=express&logoColor=FFFFFF"/>
-  <!-- <img src="https://img.shields.io/badge/NestJS-0D0221?style=for-the-badge&logo=nestjs&logoColor=E0234E"/> -->
+  <img src="https://img.shields.io/badge/NestJS-0D0221?style=for-the-badge&logo=nestjs&logoColor=E0234E"/>
+  <img src="https://img.shields.io/badge/Socket.io-0D0221?style=for-the-badge&logo=socketdotio&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/JWT-0D0221?style=for-the-badge&logo=jsonwebtokens&logoColor=F700FF"/>
+  <img src="https://img.shields.io/badge/Swagger-0D0221?style=for-the-badge&logo=swagger&logoColor=85EA2D"/>
+  <br/>
   <img src="https://img.shields.io/badge/MongoDB-0D0221?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
   <img src="https://img.shields.io/badge/PostgreSQL-0D0221?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
-  <!-- <img src="https://img.shields.io/badge/Firebase-0D0221?style=for-the-badge&logo=firebase&logoColor=FFCA28"/> -->
-  <!-- <img src="https://img.shields.io/badge/Supabase-0D0221?style=for-the-badge&logo=supabase&logoColor=3ECF8E"/> -->
+  <img src="https://img.shields.io/badge/TypeORM-0D0221?style=for-the-badge&logo=typeorm&logoColor=FE0902"/>
+  <img src="https://img.shields.io/badge/Redis-0D0221?style=for-the-badge&logo=redis&logoColor=DC382D"/>
+  <img src="https://img.shields.io/badge/Elasticsearch-0D0221?style=for-the-badge&logo=elasticsearch&logoColor=005571"/>
+  <img src="https://img.shields.io/badge/Supabase-0D0221?style=for-the-badge&logo=supabase&logoColor=3ECF8E"/>
+  <br/>
   <img src="https://img.shields.io/badge/Docker-0D0221?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+  <img src="https://img.shields.io/badge/Nginx-0D0221?style=for-the-badge&logo=nginx&logoColor=009639"/>
+  <img src="https://img.shields.io/badge/PM2-0D0221?style=for-the-badge&logo=pm2&logoColor=2B037A"/>
+  <img src="https://img.shields.io/badge/AWS-0D0221?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
   <img src="https://img.shields.io/badge/Vercel-0D0221?style=for-the-badge&logo=vercel&logoColor=FFFFFF"/>
 </p>
 </details>
 
-<details>
-<summary><b>🧰 Tools & Workflow</b></summary>
+<details open>
+<summary><b>🧰 Tools, CI/CD & Monitoring</b></summary>
 <br/>
 <p align="center">
   <img src="https://img.shields.io/badge/Git-0D0221?style=for-the-badge&logo=git&logoColor=F05032"/>
   <img src="https://img.shields.io/badge/GitHub-0D0221?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-0D0221?style=for-the-badge&logo=githubactions&logoColor=2088FF"/>
   <img src="https://img.shields.io/badge/VS_Code-0D0221?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
   <img src="https://img.shields.io/badge/Cursor-0D0221?style=for-the-badge&logo=cursor&logoColor=FFFFFF"/>
-  <!-- <img src="https://img.shields.io/badge/Figma-0D0221?style=for-the-badge&logo=figma&logoColor=F24E1E"/> -->
   <img src="https://img.shields.io/badge/Postman-0D0221?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
-  <!-- <img src="https://img.shields.io/badge/Notion-0D0221?style=for-the-badge&logo=notion&logoColor=FFFFFF"/> -->
+  <br/>
+  <img src="https://img.shields.io/badge/Claude_Code-0D0221?style=for-the-badge&logo=anthropic&logoColor=D97757"/>
+  <img src="https://img.shields.io/badge/Sentry-0D0221?style=for-the-badge&logo=sentry&logoColor=362D59"/>
+  <img src="https://img.shields.io/badge/Axiom-0D0221?style=for-the-badge&logo=datadog&logoColor=00FFFF"/>
+  <img src="https://img.shields.io/badge/Kibana-0D0221?style=for-the-badge&logo=kibana&logoColor=005571"/>
+  <img src="https://img.shields.io/badge/Logstash-0D0221?style=for-the-badge&logo=logstash&logoColor=00FFFF"/>
+  <br/>
+  <img src="https://img.shields.io/badge/PayOS-0D0221?style=for-the-badge&logo=stripe&logoColor=F700FF"/>
+  <img src="https://img.shields.io/badge/Better_Auth-0D0221?style=for-the-badge&logo=auth0&logoColor=00FFFF"/>
+  <img src="https://img.shields.io/badge/Google_OAuth-0D0221?style=for-the-badge&logo=google&logoColor=4285F4"/>
+  <img src="https://img.shields.io/badge/Telegram_Bot-0D0221?style=for-the-badge&logo=telegram&logoColor=26A5E4"/>
 </p>
 </details>
 
 <br/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,sass,nodejs,mongodb,postgres,docker,vercel,git,github,vscode&perline=11" alt="skill icons"/>
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,redux,vite,webpack,tailwind,sass,nodejs,nestjs,express,mongodb,postgres,redis,elasticsearch,supabase,docker,nginx,vercel,aws,githubactions,sentry,jest,git,github,postman,vscode&perline=10" alt="skill icons"/>
 </div>
-<!-- figma,threejs,nestjs,firebase,supabase, -->
+<!-- figma,threejs,firebase, -->
+
 ---
 
 ## ⟪ 04 ⟫ &nbsp; system.diagnostics
@@ -171,25 +195,25 @@ const nghia = {
 <div align="center">
 <br/><br/>
 
-  <img src="https://streak-stats.demolab.com?user=tangquangnghia&theme=synthwave&hide_border=true&background=0D0221&stroke=F700FF&ring=F700FF&fire=00FFFF&currStreakLabel=F700FF&sideLabels=00FFFF&dates=B19CD9&border_radius=14" alt="streak"/>
+  <img src="https://streak-stats.demolab.com?user=nghiahd147&theme=synthwave&hide_border=true&background=0D0221&stroke=F700FF&ring=F700FF&fire=00FFFF&currStreakLabel=F700FF&sideLabels=00FFFF&dates=B19CD9&border_radius=14" alt="streak"/>
 
 <br/><br/>
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tangquangnghia&theme=synthwave" alt="profile summary"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nghiahd147&theme=synthwave" alt="profile summary"/>
 
 </div>
 
 ---
 
-## ⟪ 04 ⟫ &nbsp; activity.signal
+## ⟪ 05 ⟫ &nbsp; activity.signal
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tangquangnghia&theme=react-dark&bg_color=0D0221&color=F700FF&line=00FFFF&point=FFFFFF&area=true&hide_border=true&custom_title=Commit%20Waveform%20//%20last%2031%20days" alt="activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nghiahd147&theme=react-dark&bg_color=0D0221&color=F700FF&line=00FFFF&point=FFFFFF&area=true&hide_border=true&custom_title=Commit%20Waveform%20//%20last%2031%20days" alt="activity graph"/>
 </div>
 
 ---
 
-## ⟪ 05 ⟫ &nbsp; daily.transmission
+## ⟪ 06 ⟫ &nbsp; daily.transmission
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="random dev quote"/>
@@ -197,7 +221,7 @@ const nghia = {
 
 ---
 
-## ⟪ 06 ⟫ &nbsp; featured.builds
+## ⟪ 07 ⟫ &nbsp; featured.builds
 
 <table>
 <tr>
@@ -209,8 +233,8 @@ const nghia = {
 
 **Stack:** Next.js · TypeScript · Three.js · Framer Motion · Tailwind
 
-[![Repo](https://img.shields.io/badge/repo-0D0221?style=for-the-badge&logo=github&logoColor=F700FF)](https://github.com/tangquangnghia)
-[![Demo](https://img.shields.io/badge/live-0D0221?style=for-the-badge&logo=vercel&logoColor=00FFFF)](https://github.com/tangquangnghia)
+[![Repo](https://img.shields.io/badge/repo-0D0221?style=for-the-badge&logo=github&logoColor=F700FF)](https://github.com/nghiahd147)
+[![Demo](https://img.shields.io/badge/live-0D0221?style=for-the-badge&logo=vercel&logoColor=00FFFF)](https://github.com/nghiahd147)
 
 </td>
 <td width="50%" valign="top">
@@ -221,8 +245,8 @@ const nghia = {
 
 **Stack:** React · TypeScript · CSS Houdini · Web Audio API
 
-[![Repo](https://img.shields.io/badge/repo-0D0221?style=for-the-badge&logo=github&logoColor=F700FF)](https://github.com/tangquangnghia)
-[![Demo](https://img.shields.io/badge/live-0D0221?style=for-the-badge&logo=vercel&logoColor=00FFFF)](https://github.com/tangquangnghia)
+[![Repo](https://img.shields.io/badge/repo-0D0221?style=for-the-badge&logo=github&logoColor=F700FF)](https://github.com/nghiahd147)
+[![Demo](https://img.shields.io/badge/live-0D0221?style=for-the-badge&logo=vercel&logoColor=00FFFF)](https://github.com/nghiahd147)
 
 </td>
 </tr>
@@ -235,8 +259,8 @@ const nghia = {
 
 **Stack:** SvelteKit · MapLibre · Web Audio · Supabase
 
-[![Repo](https://img.shields.io/badge/repo-0D0221?style=for-the-badge&logo=github&logoColor=F700FF)](https://github.com/tangquangnghia)
-[![Demo](https://img.shields.io/badge/live-0D0221?style=for-the-badge&logo=vercel&logoColor=00FFFF)](https://github.com/tangquangnghia)
+[![Repo](https://img.shields.io/badge/repo-0D0221?style=for-the-badge&logo=github&logoColor=F700FF)](https://github.com/nghiahd147)
+[![Demo](https://img.shields.io/badge/live-0D0221?style=for-the-badge&logo=vercel&logoColor=00FFFF)](https://github.com/nghiahd147)
 
 </td>
 <td width="50%" valign="top">
@@ -247,8 +271,8 @@ const nghia = {
 
 **Stack:** React · Zustand · Canvas API · WebWorkers
 
-[![Repo](https://img.shields.io/badge/repo-0D0221?style=for-the-badge&logo=github&logoColor=F700FF)](https://github.com/tangquangnghia)
-[![Demo](https://img.shields.io/badge/live-0D0221?style=for-the-badge&logo=vercel&logoColor=00FFFF)](https://github.com/tangquangnghia)
+[![Repo](https://img.shields.io/badge/repo-0D0221?style=for-the-badge&logo=github&logoColor=F700FF)](https://github.com/nghiahd147)
+[![Demo](https://img.shields.io/badge/live-0D0221?style=for-the-badge&logo=vercel&logoColor=00FFFF)](https://github.com/nghiahd147)
 
 </td>
 </tr>
@@ -256,19 +280,19 @@ const nghia = {
 
 ---
 
-## ⟪ 7 ⟫ &nbsp; contribution.serpent 🐍
+## ⟪ 08 ⟫ &nbsp; contribution.serpent 🐍
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tangquangnghia/tangquangnghia/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tangquangnghia/tangquangnghia/output/github-snake.svg"/>
-    <img alt="snake" src="https://raw.githubusercontent.com/tangquangnghia/tangquangnghia/output/github-contribution-grid-snake.svg"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nghiahd147/nghiahd147/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nghiahd147/nghiahd147/output/github-snake.svg"/>
+    <img alt="snake" src="https://raw.githubusercontent.com/nghiahd147/nghiahd147/output/github-contribution-grid-snake.svg"/>
   </picture>
 </div>
 
 ---
 
-## ⟪ 8 ⟫ &nbsp; manifesto
+## ⟪ 09 ⟫ &nbsp; manifesto
 
 <div align="center">
 
