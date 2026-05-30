@@ -195,7 +195,7 @@ const nghia = {
 <div align="center">
 <br/><br/>
 
-  <img src="https://streak-stats.demolab.com?user=nghiahd147&theme=synthwave&hide_border=true&background=0D0221&stroke=F700FF&ring=F700FF&fire=00FFFF&currStreakLabel=F700FF&sideLabels=00FFFF&dates=B19CD9&border_radius=14" alt="streak"/>
+  <img src="https://streak-stats.demolab.com?user=nghiahd147&theme=synthwave&hide_border=true&background=0D0221&stroke=F700FF&ring=F700FF&fire=00FFFF&currStreakLabel=F700FF&sideLabels=00FFFF&dates=B19CD9&border_radius=14&timezone=Asia%2FHo_Chi_Minh" alt="streak"/>
 
 <br/><br/>
 
